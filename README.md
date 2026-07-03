@@ -1,20 +1,21 @@
-💰 FlipEarn (React + Tailwind)
+# ⚡ QuickShow
 
-📌 Description
-A full-stack styled frontend application for an earning platform built with React.
+## 📌 Description
+A modern React web application with a clean UI and fast user experience.
 
-🚀 Features
-- User interface for earning system  
-- Responsive dashboard UI  
-- Modern component design  
+## 🚀 Features
+- Component-based architecture  
+- Responsive design  
+- Interactive UI  
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 - React  
 - JavaScript (ES6+)  
 - Tailwind CSS  
 
-▶️ How to Run
+## ▶️ How to Run
 1. Clone the repository  
 2. Run:
+```bash
 npm install  
 npm run dev
